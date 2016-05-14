@@ -1,0 +1,18 @@
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AdvancedConsole.csprojResolveAssemblyReference.cache
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\daryoush\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\AdvancedConsole\ConsoleApplication1\ConsoleApplication1\obj\Debug\AdvancedConsole.csprojResolveAssemblyReference.cache
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\obj\Debug\AdvancedConsole.csprojResolveAssemblyReference.cache
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
