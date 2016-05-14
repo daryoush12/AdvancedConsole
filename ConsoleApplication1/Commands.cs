@@ -16,18 +16,12 @@ namespace AdvancedConsole
 
         public static void help(string message)
         {
+            // saved as a string value. ToDo: Fetch all commands from directorylist and save them into string.
+            String CmdList = "help,readh,processinfo,randomisenumber";
 
-            String CmdList = "help,kac,ban,kick,warn and rules.";
 
             Util.consolemessage("You Have Current Commands: "+CmdList);
          
-        }
-
-        public static void kac(string message)
-        {
-            Console.WriteLine("\nWe are sending you to KaC's Website! \nPlease Wait..\n");
-            System.Diagnostics.Process.Start("www.knifeassassins.com");
-
         }
 
         public static void connectdb(string message)
@@ -42,16 +36,16 @@ namespace AdvancedConsole
             DriveInfo[] drives = DriveInfo.GetDrives();
             foreach (DriveInfo drive in drives)
             {
-                //There are more attributes you can use.
-                //Check the MSDN link for a complete example.
+                
+            // Display used storage.
                 Console.WriteLine(drive.Name);
                 if (drive.IsReady) Console.WriteLine(drive.TotalSize);
             }
 
             }
         public static void processinfo(string message) {
- 
-        Process[] processCollection = Process.GetProcesses();
+            //Lists all processes in pc at used moment.
+            Process[] processCollection = Process.GetProcesses();
         Console.WriteLine("Currently Running Processes:\n");
         Thread.Sleep(300);
         foreach (Process p in processCollection)  
@@ -68,7 +62,7 @@ namespace AdvancedConsole
         public static void randomisenumber()
         {
 
-
+            //Used for testing randomising.
             Random rnd = new Random();
             int randomednumber = rnd.Next(1, 100);
             string numberguess = Console.ReadLine(); // Get string from user

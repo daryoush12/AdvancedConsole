@@ -11,6 +11,9 @@ namespace AdvancedConsole
 {
     static class AdvancedConsole
     {
+
+        // Havent figured a way to use non static void methods. So going for statics until further notice.
+
         public static Dictionary<string, Action<string>> CmdDictionary = new Dictionary<string, Action<string>>();
         public static void Main(string[] args)
         {

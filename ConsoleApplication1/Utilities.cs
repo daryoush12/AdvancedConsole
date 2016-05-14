@@ -18,8 +18,6 @@ namespace AdvancedConsole
        
 
 
-
-
        //Methods for command processing
     
 
@@ -37,7 +35,6 @@ namespace AdvancedConsole
         {
 
             AdvancedConsole.CmdDictionary.Add("help", CommandMethods.help);
-            AdvancedConsole.CmdDictionary.Add("kac", CommandMethods.kac);
             AdvancedConsole.CmdDictionary.Add("readh", CommandMethods.readh);
             AdvancedConsole.CmdDictionary.Add("processinfo", CommandMethods.processinfo);
             
@@ -57,11 +54,15 @@ namespace AdvancedConsole
                 return;
             }
             CommandToBeRun(command); //execute command
-            // do whatever else 
+            // then return into default state
 
 
         }
 
+
+        // Other utilities:
+
+            //Configuring Console:
         public static void Configurate()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
