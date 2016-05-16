@@ -37,8 +37,9 @@ namespace AdvancedConsole
             AdvancedConsole.CmdDictionary.Add("help", CommandMethods.help);
             AdvancedConsole.CmdDictionary.Add("readh", CommandMethods.readh);
             AdvancedConsole.CmdDictionary.Add("processinfo", CommandMethods.processinfo);
-            
-            
+            AdvancedConsole.CmdDictionary.Add("random", CommandMethods.randomisenumber);
+
+
 
         }
 

@@ -19,3 +19,6 @@ D:\AdvancedConsole Alpha 0.1\ConsoleApplication1\ConsoleApplication1\bin\Debug\C
 C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daryoush\Desktop\AdvancedConsole\ConsoleApplication1\obj\Debug\AdvancedConsole.csprojResolveAssemblyReference.cache

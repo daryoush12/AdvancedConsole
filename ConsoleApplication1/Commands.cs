@@ -57,16 +57,37 @@ namespace AdvancedConsole
  
         }
 
-
-
-        public static void randomisenumber()
+   
+        public static void randomisenumber(string message)
         {
 
             //Used for testing randomising.
             Random rnd = new Random();
             int randomednumber = rnd.Next(1, 100);
+            redo:
+            Util.consolemessage("Guess the number(1-100):");
             string numberguess = Console.ReadLine(); // Get string from user
-            Util.consolemessage("Randomised number is:" + randomednumber);
+            int answer;
+            bool isValid = int.TryParse(numberguess, out answer); // the out keyword allows the method to essentially "return" a second value
+            if (isValid == false)
+            {
+
+
+                Util.consolemessage("Something went wrong!"+answer);
+                goto redo;
+
+            }
+           
+
+           else if(isValid == true) {
+
+                if(answer == randomednumber)
+                {
+                    Util.consolemessage("Randomised number is:" + randomednumber + " You Guessed Right!");
+                }
+
+            }
+
 
 
 
